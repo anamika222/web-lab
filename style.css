@@ -1,0 +1,26 @@
+#sea{
+    background-color: yellow;
+}
+.style{
+    background-color: black;
+}
+.head{
+    color: white;
+    font-weight: normal;
+    
+}
+#cart{
+    color: white;
+}
+.abc{
+    background-color: black;
+    padding: 5px;
+    justify-content: space-between;
+    display: flex;
+
+}
+.acc{
+    color: white;
+    
+    
+}
